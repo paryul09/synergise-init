@@ -13,3 +13,4 @@
 - Rohan Reddy [imTheDevil](https://github.com/imTheDevil)
 - Shashwat Singh [Shashwat545](https://github.com/shashwat545)
 - Kaushik Dey [Kaushikdey647](https://github.com/Kaushikdey647)
+<paryul singhai> [paryul09](https://github.com/paryul09)
